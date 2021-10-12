@@ -1,0 +1,1 @@
+java -jar "C:\Users\Sahabat Computer\Documents\NetBeansProjects\Fuzzy\dist\Fuzzy.jar"
